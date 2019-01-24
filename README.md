@@ -12,7 +12,7 @@ The main functions of this app:
 
 To start you should do the next steps.
 1. Clone this repo to your server.
-2. Create the MYSQL db with feedbacks table in it.
+2. Create the MYSQL db with feedbacks table in it. Use dump feedbacks.sql in root for it.
 3. Set the db connection in models/Database.php.
 4. Run app at your host.
 
