@@ -18,6 +18,6 @@ To start you should do the next steps.
 
 If you've any questions, please mail me: alexandr211@yandex.ru
 
-Sinserely,
+Sincerely,
 Alexandr
 
